@@ -1,0 +1,5 @@
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Racing News | VETTING" />
+<meta property="og:url" content="http://racing-uat.stc.sg/cms/en/racing-news/news/" />
+<meta property="og:site_name" content="Singapore Turf Club" />
+<meta property="og:image" content="http://rpaprototype.blob.core.windows.net/rpa-prototype-a1-web/2020/03/default-thumbnail.jpg" />
